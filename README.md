@@ -23,6 +23,20 @@ The project demonstrates how basic web technologies can be used to create a clea
 - **No frameworks** – pure HTML/CSS for simplicity  
 
 ---
+## 📸 Screenshots
+
+### Home Page
+![Home Page](<img width="1890" height="901" alt="Screenshot (389)" src="https://github.com/user-attachments/assets/bb91879d-89d0-42bd-b56a-72ebbf829fc3" />
+)
+
+### Characters Page
+![Characters Page](<img width="1896" height="894" alt="Screenshot (391)" src="https://github.com/user-attachments/assets/b28e462f-df3a-4f4a-8e40-155040c25a54" />
+)
+
+### Gallery Page
+![Gallery Page](<img width="1885" height="914" alt="Screenshot (393)" src="https://github.com/user-attachments/assets/6c14ce4c-5db5-415f-baa7-b65cc5261139" />
+)
+
 
 ## 🚀 Getting Started
 1. Clone the repository:
